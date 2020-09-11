@@ -1,6 +1,4 @@
 //SUNDAR RAJ
-//CSC 236-62
-//Lab 2-A
 public interface LockADT
 {
 	// Sets values of all three combination numbers
