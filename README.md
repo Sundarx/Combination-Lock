@@ -1,4 +1,4 @@
-# Lock
+# Combination-Lock
 
 Program replicates a classic combination dial lock where the user has the ability to:
 
