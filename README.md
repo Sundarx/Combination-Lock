@@ -1,6 +1,6 @@
 # LockADT
 
-Program demonstrates a classic dial-lock where the user has the ability to:
+Program demonstrates a classic combination dial lock where the user has the ability to:
 
 1) set lock combination
 2) close lock
